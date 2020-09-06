@@ -24,7 +24,7 @@ Information about the application:
 - Users can sign up and log in. You cannot sign up with an email that is already registered.
     - Please log in after first signing up.
 - Users can create new posts with an attached image. Click on New Post.
-    - Images are required. Title's must be at least 3 characters.
+    - Images are required. Titles must be at least 3 characters.
 - Users can edit and delete only their own posts.
     - The option to edit and delete a post is not available for anyone except the user who posted it.
 
