@@ -5,7 +5,9 @@ https://github.com/syoung466/cytellix-frontend
 https://github.com/syoung466/cytellix-backend
 
 Requirements:
-1.  Have "ng" and "npm" installed.
+1. Have "npm" installed
+2. Have Angular CLI (npm install -g @angular/cli) 
+3. Have Angular Material (npm add @angular/material)
 
 Instructions:
 1. Git clone both the frontend and backend repositories.
@@ -23,4 +25,3 @@ Information about the application:
 - Users can create new posts with an attached image. Images are required. Title's must be at least 3 characters.
 - Users can edit and delete only their own posts.
     - The option to edit and delete a post is not available for anyone except the user who posted it.
-
